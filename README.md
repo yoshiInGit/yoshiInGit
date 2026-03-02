@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 はじめまして
 
-<!--
-**yoshiInGit/yoshiInGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 自己紹介
+Webエンジニアとしてバックエンドを中心に開発しています。  
 
-Here are some ideas to get you started:
+- 💼 経験領域：-
+- 🎯 興味分野：クラウドアーキテクチャ / AI / スケーラブル設計
+- 🌱 学習中：システム設計 / AWSアーキテクチャ / パフォーマンス最適化
+- 🔥 目標：テックリード / クラウドアーキテクト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 技術スタック
+
+### 💻 バックエンド
+- Java / Spring Boot
+- PHP / Laravel
+- REST API設計
+- RDB設計（MySQL / PostgreSQL）
+
+### 🎨 フロントエンド
+- TypeScript / React
+- Tailwind CSS
+- モダンUI設計
+
+### ☁️ インフラ
+-
+---
+
+## 📂 主なプロジェクト
+
+### 🔹 プロジェクト名
+> プロジェクト概要を簡潔に記載  
+
+
+---
+## 🏆 実績・強み
+
+---
+
+## 📈 現在注力していること
+- システムデザイン
+- 分散システム設計
+- セキュリティ強化
+- パフォーマンスチューニング
+
+---
+
+## 🤝 連絡先
+- ポートフォリオ：-
+- Mail：yoshi.in.app@gmail.com
